@@ -1,0 +1,1 @@
+a = input("write val for a: ")
